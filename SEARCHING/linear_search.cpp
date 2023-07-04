@@ -21,5 +21,7 @@ int main(){
             break;
         }
     }
+
+    cout<<"Program has been executed"<<endl;
     return 0;
 }
