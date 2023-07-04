@@ -49,5 +49,9 @@ int main(){
         cout<<arr[i]<<" ";
     }
 
+
+    //hemlo
+    string s="abc";
+
     return 0;
 }
